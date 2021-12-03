@@ -19,4 +19,4 @@ for line in data:
     total = total + (int(values[3]) * float(values[4]))
 
 print(total)
-#log_file.close()
+#data.close()
